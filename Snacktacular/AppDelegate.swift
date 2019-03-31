@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Snacktacular
 //
-//  Created by BC Swift Student Loan 1 on 3/30/19.
-//  Copyright © 2019 Richard Li. All rights reserved.
+//  Created by John Gallaugher on 3/23/18.
+//  Copyright © 2018 John Gallaugher. All rights reserved.
 //
 
 import UIKit
